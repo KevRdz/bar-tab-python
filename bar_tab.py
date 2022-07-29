@@ -7,7 +7,8 @@ class Tab:
     'wings':10,
     'burger':14,
     'salad':12,
-    'desert':6
+    'desert':6,
+    'tacos':8,
   }
 
   def __init__(self):
